@@ -45,6 +45,7 @@ public class RAMQuartzTest {
         Trigger trigger = TriggerBuilder.newTrigger()
         					.withDescription("")
         					.withIdentity("helloTrigger", "helloTriggerGroup")
+//        					.withSchedule(SimpleScheduleBuilder.simpleSchedule())//使用SimpleScheduleBuilder
         					.startAt(statTime)//默认当前时间启动
         					.withSchedule(CronScheduleBuilder.cronSchedule("0/2 * * * * ?"))//两秒执行一次
         					.build();
