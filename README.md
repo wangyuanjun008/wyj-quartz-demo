@@ -33,7 +33,7 @@
 
 <a href="http://wangyuanjun.cn/2018/01/08/Quartz%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94Spring%E5%92%8CQuartz%E9%9B%86%E6%88%90%E8%AF%A6%E8%A7%A3-%E4%B8%89/" target="_Blank">3.Quartz学习——Spring和Quartz集成详解（三）</a>
 
-<a href="http://wangyuanjun.cn/2018/01/08/Quartz%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94SSM%E5%92%8CQuartz%E9%9B%86%E6%88%90%E8%AF%A6%E8%A7%A3-%E5%9B%9B/" target="_blank">4.Quartz学习——SSM和Quartz集成详解</a>
+<a href="http://wangyuanjun.cn/2018/01/08/Quartz%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%94SSM%E5%92%8CQuartz%E9%9B%86%E6%88%90%E8%AF%A6%E8%A7%A3-%E5%9B%9B/" target="_Blank">4.Quartz学习——SSM和Quartz集成详解</a>
 
 ----------
 
